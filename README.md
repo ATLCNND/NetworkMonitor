@@ -81,6 +81,8 @@ GPU: Intel UHD 630
 ## 下载地址
 最新版: https://github.com/ATLCNND/NetworkMonitor/releases
 ## 作者
-ATLCNND (传奇A导ATLCNND)
+ATLCNND 
+
+##该项目大部分代码由豆包AI提供
 ## License
 MIT
