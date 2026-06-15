@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "networkmonitor",
+  "version": "1.2.0",
+  "name": "Network Monitor",
+  "description": "实时监控客户端系统状态与网络通讯 - FPS、内存、CPU、网络流量",
+  "authors": ["ATLCNND"],
+  "contact": {
+    "homepage": "https://github.com/ATLCNND/NetworkMonitor",
+    "sources": "https://github.com/ATLCNND/NetworkMonitor"
+  },
+  "license": "MIT",
+  "icon": "assets/networkmonitor/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.ATLCNND.networkmonitor.NetworkMonitor"],
+    "modmenu": ["com.ATLCNND.networkmonitor.config.ModMenuIntegration"]
+  },
+  "mixins": ["networkmonitor.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.14.0",
+    "fabric": "*",
+    "minecraft": "1.20.1",
+    "java": ">=17",
+    "cloth-config": ">=11.0.0",
+    "modmenu": ">=7.0.0"
+  }
+}
