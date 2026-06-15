@@ -47,9 +47,9 @@ GPU: Intel UHD 630
 - Cloth Config: 13.0.0+
 - Java: 17+
 ## 依赖模组（必须安装）
-1. Fabric API
-2. Mod Menu
-3. Cloth Config API
+1. [Fabric API](https://modrinth.com/mod/fabric-api)
+2. [Mod Menu](https://modrinth.com/mod/modmenu)
+3. [Cloth Config API](https://modrinth.com/mod/cloth-config)
 ## 安装方法
 1. 安装 Fabric Loader
 2. 安装上述3个依赖模组
@@ -81,9 +81,6 @@ GPU: Intel UHD 630
 ## 下载地址
 最新版: https://github.com/ATLCNND/NetworkMonitor/releases
 ## 作者
-ATLCNND 
-
-##注
-该模组大部分源码由豆包贡献
+ATLCNND (传奇A导ATLCNND)
 ## License
 MIT
