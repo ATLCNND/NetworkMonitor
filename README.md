@@ -79,7 +79,7 @@ GPU: Intel UHD 630
 - 支持4个显示位置切换
 - Mod Menu图形配置界面
 ## 下载地址
-所有版本均可在 GitHub Releases 下载：https://github.com/ATLCNND/mc/releases
+最新版: https://github.com/ATLCNND/NetworkMonitor/releases
 ## 作者
 ATLCNND (传奇A导ATLCNND)
 ## License
